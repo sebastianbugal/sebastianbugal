@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebastianbugal
 - 👀 I’m interested in data science and machine learning
 - 💞️ I’m looking to collaborate on any and all cool and fun projects.
-- 📫 How to reach me: sebastian.bugal99@gmail.com
+- 📫 How to reach me: sebastian.bugal@occamdata.com
 - Check out my website at: www.sebastianbugal.com
 
 <!---
