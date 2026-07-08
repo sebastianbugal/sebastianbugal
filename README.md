@@ -11,11 +11,9 @@
 
 [Personal](https://www.sebastianbugal.com/) | [X](https://twitter.com/nullnameguy)
 
-🚀 Building the next era of physical trade @ [Mercora](https://mercora.io)
-
-💬 If your cracked lets chat :)
-
-📫 How to reach me: sebastian@mercora.io
+- 🚀 Building the next era of physical trade @ [Mercora](https://mercora.io)
+- 💬 If your cracked lets chat :)
+- 📫 How to reach me: sebastian@mercora.io
 
 <!---
 sebastianbugal/sebastianbugal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
